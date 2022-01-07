@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @xsaul
-- 👀 I’m interested in JavaScript, frontend, CSS,etc
+- 👀 I’m interested in JavaScript, frontend, React,etc
 - 🌱 I’m currently learning JavaScript, React for web development
 - 💞️ I’m looking to collaborate on any project that can help me to improve my skills (I'm new coding)
 - 📫 Reach me by this platform or you can ask me for my email.
