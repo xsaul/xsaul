@@ -1,8 +1,8 @@
 - 👋 Hey World, I’m @xsaul
-- 👀 I’m interested in JavaScript and everything related with Frontend development.
-- 🌱 I’m currently learning JavaScript.
+- 👀 I’m interested in JavaScript and everything related to Frontend development.
+- 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on any project/open source.
-- 😎 I speak Spanish, English and Portuguese.
+- 😎 I speak Spanish, English, and Portuguese.
 
 
 ## 🌐Socials
